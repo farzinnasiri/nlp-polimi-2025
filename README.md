@@ -1,9 +1,3 @@
-Okay, this is a very comprehensive NLP project! It covers data analysis, various search engine techniques, custom embeddings, LLM fine-tuning, and chatbot development with advanced evaluation.
-
-Here's a `README.md` for your GitHub project, designed to be professional and highlight the key aspects for your resume:
-
----
-
 # RAG-Instruct-Chatbot: An Advanced NLP Project for Question Answering
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Xt273_sH-Epx2pI6ypQH66oqBkbZAcNg)
